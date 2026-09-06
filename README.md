@@ -1,5 +1,7 @@
 # Puffy AI — Android (Kotlin)
 
+[![Android Build](https://github.com/blitzlabx/puffy-android/actions/workflows/android-build.yml/badge.svg)](https://github.com/blitzlabx/puffy-android/actions/workflows/android-build.yml)
+
 **Puffy AI by Blitz** · native **Kotlin** Android app  
 App ID: `com.blitzlabx.puffy`
 
